@@ -1,0 +1,24 @@
+{
+    "Manga": [
+        {
+            "id": 1,
+            "name": "D.Gray-man",
+            "genre": "Horror"
+        },
+        {
+            "id": 2,
+            "name": "Black Lagoon",
+            "genre": "Action"
+        },
+        {
+            "id": 3,
+            "name": "Beyblades",
+            "genre": "Sport"
+        },
+        {
+            "id": 4,
+            "name": "Inuyasha",
+            "genre": "Adventure"
+        }
+    ]
+}
